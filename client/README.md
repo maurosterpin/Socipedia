@@ -1,5 +1,5 @@
 # Socipedia
-Aplikacija služi za povezivanje ljudi online, poput facebooka ili twittera.
+Aplikacija sluzi za povezivanje ljudi online, poput facebooka ili twittera.
 
 Glavni dio aplikacije je mogucnost kreiranja postovoa, te djeljenja i likeanja istih, te pracenje ostalih korisnika, slicno kao sto twitter funkcionira.
 
